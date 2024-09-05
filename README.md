@@ -1,1 +1,2 @@
-# PYW-RAT
+# PhantomEagle RAT
+Evokes an unseen but powerful presence
